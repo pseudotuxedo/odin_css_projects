@@ -1,1 +1,0 @@
-This is the intermediate part of the HTML/CSS course

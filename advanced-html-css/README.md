@@ -1,1 +1,0 @@
-This is the advanced part of the HTML/CSS course.
